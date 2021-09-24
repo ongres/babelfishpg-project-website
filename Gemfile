@@ -22,10 +22,10 @@ gem "jekyll-redirect-from", "~> 0.16"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-sitemap"
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate"
   gem "jekyll-last-modified-at"
-  gem "jekyll-sitemap"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
