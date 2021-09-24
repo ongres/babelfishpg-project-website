@@ -158,6 +158,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-last-modified-at
   - jekyll-sitemap
 
 # Exclude from processing.
